@@ -14,4 +14,6 @@ Rails.application.routes.draw do
 
   resources :books
   resources :subjects
+  resources :customers
+  mount RailsAdmin::Engine => '/admin', as: 'rails_admin'
 end
