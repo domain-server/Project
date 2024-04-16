@@ -1,9 +1,9 @@
 # README
 
-## GROUP <add-group-name>
+## GROUP <Group 4>
 
-- Member 1: <add-name>
-- Member 2: <add-name>
+- Member 1: <A>
+- Member 2: <B>
 - Member 3: <add-name>
 - Member 4: <add-name>
 
